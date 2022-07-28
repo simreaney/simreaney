@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simreaney, a catchment hydrologist, environmental modeller and geoscientist at Durham University, UK
-- 👀 I’m interested in how landscapes change rainfall into hazards, partially floods and degraded water quality, and how projected climate change may affect these processes and how they can be mitigated with nature based solutions.  
-- 🌱 I build tools and solutions using C++ and Python. These tools include fully spatially distributed, full physics catchment simulation models, simple 1D conceptual catchment models and geospatial analysis with terrain analysis in GIS. 
-- 📫 You can reach me on Twitter (www.twitter.com/simreaney) or on email sim.reaney@durham.ac.uk
+- I’m @simreaney, a catchment hydrologist, environmental modeller and geoscientist at Durham University, UK
+- I’m interested in how landscapes change rainfall into hazards, partially floods and degraded water quality, and how projected climate change may affect these processes and how they can be mitigated with nature based solutions.  
+- I build tools and solutions using C++ and Python. These tools include fully spatially distributed, full physics catchment simulation models, simple 1D conceptual catchment models and geospatial analysis with terrain analysis in GIS. 
+- You can reach me on Twitter (www.twitter.com/simreaney) or on email sim.reaney@durham.ac.uk
